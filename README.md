@@ -36,7 +36,7 @@ render() {
 
 ## Props
 
-- `country` (string) - code of country. Ex.: us, br...
+- `country` (string) - country innitials. Ex.: us, br...
 - `size` (string) - image size - *options*: small, normal, big, ultra.
 
 ## Architecture
