@@ -2,8 +2,11 @@
 [![Build Status](https://travis-ci.org/lyef/lyef-flags.svg?branch=master)](https://travis-ci.org/lyef/lyef-flags)
 ![Badge size](https://badge-size.herokuapp.com/lyef/lyef-flags/master/dist/Main.min.js.svg)
 ![Badge gzip size](https://badge-size.herokuapp.com/lyef/lyef-flags/master/dist/Main.min.js.svg?compression=gzip)
+[![NPM version](https://badge-me.herokuapp.com/api/npm/lyef-flags.png)](http://badges.enytc.com/for/npm/lyef-flags)
 
 > A react component to show flags of all countries based on [http://flagpedia.net/](flagpedia source).
+
+![Flags from some countries](flags.png)
 
 ## Demo
 

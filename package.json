@@ -1,6 +1,6 @@
 {
   "name": "lyef-flags",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A react component to show flags of all countries.",
   "main": "dist/Main.js",
   "scripts": {
