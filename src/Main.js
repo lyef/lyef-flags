@@ -1,11 +1,16 @@
 import React, { PropTypes } from 'react';
 
-const Hello = ({ name }) => (
-    <h1>Hello {name}!</h1>
+const Flag = ({ country, size }) => (
+    <img
+        className="flag"
+        src={`http://flagpedia.net/data/flags/${size}/${country}.png`}
+        alt={country}
+    />
 );
 
-Hello.propTypes = {
-    name: PropTypes.string.isRequired,
+Flag.propTypes = {
+    country: PropTypes.string.isRequired,
+    size: PropTypes.string.isRequired,
 };
 
-export default Hello;
+export default Flag;
