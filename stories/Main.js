@@ -1,6 +1,6 @@
 import React from 'react';
 import Flag from '../src/Main'; // This is our component
-import { storiesOf } from '@kadira/storybook';
+import { storiesOf } from '@storybook/react';
 
 storiesOf('Flag', module)
     .add('small brazil flag', () => (
